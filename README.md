@@ -9,7 +9,7 @@ Inicio: Sueldo Semanal
 ##Proceso
 - Pedir sueldo
 - Pedir horas
-- Multiplicar el sueldo por las horas.
+- Multiplicar el sueldo por las horas y almacenar en el total.
 - Mostrar el total.
 
 *FIN*

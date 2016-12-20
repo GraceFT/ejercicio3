@@ -4,7 +4,9 @@ sueldo=prompt("Por favor, ingresa un sueldo $ ", " ");
 sueldo=parseInt(sueldo);
 horas= prompt("Por favor, ingresa un Nro de horas ", " ");
 horas=parseInt(horas);
-total=sueldo*horas;
-alert("El pago total es " + total "$");
+
+total= sueldo * horas;
+total= parseInt(total); 
+alert("El pago total es " + total + "$");
 
 
