@@ -1,2 +1,15 @@
-# ejercicio3
-EjercicioNro3
+# EjercicioNro3
+Inicio: Sueldo Semanal
+
+##Ingreso Datos
+- sueldo 
+- horas 
+- total
+
+##Proceso
+- Pedir sueldo
+- Pedir horas
+- Multiplicar el sueldo por las horas.
+- Mostrar el total.
+
+*FIN*
